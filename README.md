@@ -1,7 +1,5 @@
 # Java Calculator Project 📱🧮
 
-![Calculator Icon](calculator.png)
-
 ## Overview 🌟
 
 This is a simple calculator application implemented in Java. It includes both frontend and backend components and is built using Apache NetBeans. The calculator can evaluate mathematical expressions provided as strings, by using `StringCalculator` class.
