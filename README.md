@@ -74,4 +74,3 @@ Hasheem Ahmed - hasheemasif@gmail.com
 
 ---
 
-Feel free to customize the contact information and any other details specific to your project. If you need any adjustments or additional details, let me know!
